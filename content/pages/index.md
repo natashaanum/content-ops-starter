@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: ''
+      text: 'web fixer '
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
